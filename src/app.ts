@@ -1,1 +1,2 @@
-console.log('bum');
+const list = document.querySelector('#list')
+
