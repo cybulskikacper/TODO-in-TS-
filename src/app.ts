@@ -1,1 +1,1 @@
-console.log(object);
+const yeah  = document.querySelector<HTMLElement>('#list')
