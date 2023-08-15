@@ -1,1 +1,3 @@
-const yeah  = document.querySelector<HTMLElement>('#list')
+
+
+document.dispatchEvent
